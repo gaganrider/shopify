@@ -1,13 +1,13 @@
 {
-  "files": {
-    "main.css": "/shopify/static/css/main.45dcd86b.css",
-    "main.js": "/shopify/static/js/main.189f9017.js",
-    "index.html": "/shopify/index.html",
-    "main.45dcd86b.css.map": "/shopify/static/css/main.45dcd86b.css.map",
-    "main.189f9017.js.map": "/shopify/static/js/main.189f9017.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.45dcd86b.css",
-    "static/js/main.189f9017.js"
-  ]
+  "main.css": "/reactapp/static/css/main.d7517f79.chunk.css",
+  "main.js": "/reactapp/static/js/main.403ad027.chunk.js",
+  "main.js.map": "/reactapp/static/js/main.403ad027.chunk.js.map",
+  "static/js/1.87da9049.chunk.js": "/reactapp/static/js/1.87da9049.chunk.js",
+  "static/js/1.87da9049.chunk.js.map": "/reactapp/static/js/1.87da9049.chunk.js.map",
+  "runtime~main.js": "/reactapp/static/js/runtime~main.75024734.js",
+  "runtime~main.js.map": "/reactapp/static/js/runtime~main.75024734.js.map",
+  "static/css/main.d7517f79.chunk.css.map": "/reactapp/static/css/main.d7517f79.chunk.css.map",
+  "index.html": "/reactapp/index.html",
+  "precache-manifest.5908369c5291074939046a0868557f83.js": "/reactapp/precache-manifest.5908369c5291074939046a0868557f83.js",
+  "service-worker.js": "/reactapp/service-worker.js"
 }
